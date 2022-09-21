@@ -9,11 +9,6 @@ import org.springframework.web.bind.annotation.*;
 import java.math.BigDecimal;
 import java.util.List;
 
-/**
- * @author Simin
- * @created 09/09/2022 - 12:02 AM
- */
-
 @RestController
 @RequestMapping("/wallet")
 public class WalletController {
