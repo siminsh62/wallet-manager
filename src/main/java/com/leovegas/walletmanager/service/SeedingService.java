@@ -11,11 +11,6 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @author Simin
- * @created 10/09/2022 - 1:23 PM
- */
-
 @Service
 public class SeedingService {
     private Player player1;

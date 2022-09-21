@@ -12,10 +12,7 @@ import java.math.BigDecimal;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @author Simin
- * @created 09/09/2022 - 12:11 AM
- */
+
 @Service
 
 public class WalletService {
